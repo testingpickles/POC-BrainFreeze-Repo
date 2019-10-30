@@ -2,3 +2,4 @@
 
 file modified
 another modification
+another modification
